@@ -8,7 +8,7 @@ This project is a resource for understanding and applying the concept of Time Se
 - [Technologies Used](#used-technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [What is Time Series Analysis?](#what is-time-series-analysis)
+- [What is Time Series Analysis?](#what-is-time-series-analysis)
 - [Data-Preparation](#data-preparation)
 - [Model Tutorial](#model-tutorial)
 - [Results and Evaluation](#results-and-evaluation)
